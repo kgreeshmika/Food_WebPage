@@ -1,0 +1,150 @@
+*{
+    font-family:'Times New Roman';
+    color:#000000;
+    font: 16px;
+}
+#title{
+   
+    background-color: #1a1a2e;
+    padding:20px;
+    text-align: center;
+}
+#nav_bar{
+    background-color: #16213e;
+    text-align: center;
+}
+#ulist{
+    list-style: none;
+    padding: 0%;
+    margin: 0%;
+}
+#litem{
+    display: inline-block;
+    padding: 12px 20px;
+}
+h1{
+    font: 32px;
+    margin: 22px 0px;
+     color:#FFFFFF;
+}
+p{
+    margin: 16px 0px;
+}
+em{
+     color:#FFFFFF;
+}
+.sub_header{
+    color:#d63031;
+    font-weight: bold;
+}
+p{
+    margin:16px 0px;
+}
+a{
+    color:#e94560;
+    padding: 12px 20px;
+}
+#header{
+    background-color: #ffeaa7;
+    padding: 10px;
+    text-align: center;
+}
+#veg{
+    background-color: #00b894;
+    padding: 2px 8px;
+    color: #FFFFFF;
+    border-radius: 4px;
+}
+#non-veg{
+    background-color: #d63031;
+    padding: 2px 8px;
+    color: #FFFFFF;
+    border-radius: 4px;
+}
+hr{
+    margin: 8px 0px;
+}
+.Starters{
+    padding: 20px;
+}
+h2{
+    font: 24px;
+    margin: 20px 0px;
+}
+.Veg_non_veg{
+    display: inline-block;
+    width: 45%;
+    vertical-align: top;
+    padding: 10px;
+}
+
+h3{
+    font: 18px;
+    margin: 18px 0px;
+}
+#hspan{
+    color: #FFFFFF;
+    font: 18px;
+    background-color: #00b894;
+    padding: 2px 8px;
+    border-radius: 4px;
+}
+#spanh3{
+    color: #FFFFFF;
+    font: 18px;
+    background-color: #d63031;
+    padding: 2px 8px;
+    border-radius: 4px;
+
+}
+#main{
+    padding: 20px;
+    background: #f8f9fa;
+}
+#BESTSELLER{
+    background: #ff6348;
+    color: #FFFFFF;
+    padding: 1px 6px;
+    border-radius: 3px;
+    font-size: 12px;
+
+}
+#breads{
+    padding: 20px;
+}
+.breads_rice{
+    display: inline-block;
+    width: 45%;
+    vertical-align: top;
+}
+.lspan{
+    color: #e94560;
+}
+#Beverages{
+    padding: 20px;
+    background-color: #f8f9fa;
+}
+#hulist{
+    list-style-type: none;
+    padding: 0px;
+}
+#Desserts{
+    padding: 20px;
+}
+#footer{
+    background-color: #1a1a2e;
+    color: #FFFFFF;
+    padding:20px;
+    text-align: center;
+
+}
+#para{
+    color: #FFFFFF;
+    margin: 16px 0px;
+}
+.small_para{
+    color: #FFFFFF;
+    
+}
+
+
